@@ -57,7 +57,7 @@ voice to text. This text is then sent to the processor, it detects the nature of
 
 ![image](https://github.com/aaditeeshelke/avitrices-assistant/assets/135505964/0e6b9778-2245-4a64-9312-223db9c47a12)
 
-## output
+## OUTPUT
 
 -converting speech to text and printing it in terminal.
 
