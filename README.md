@@ -15,7 +15,9 @@ The syntax foe importing the module in python vs code is import module name befo
 These are the modules should be installed :
 
 import pyttsx3
+
 import datetime
+
 import wikipedia
 import webbrowser
 import os
