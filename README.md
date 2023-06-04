@@ -32,7 +32,7 @@ Web-browser module is imported to display information from web to users. If the 
 ### OS MODULE: 
 OS Module provides operating system dependent functionalities. If we want to perform operations of OS like data reading, data writing, or data manipulate paths then this types of functions are available in an OS module. When the these operations raise an error like “OSError” in case of any error like invalid names, paths, or arguments which may be incorrect or correct but just not accepted by the operating system.
 
-## PYWHATKIT:
+### PYWHATKIT:
 Is a Python library with various helpful features. It's easy-to-use and does not require you to do any additional setup. Currently, it is one of the most popular library for WhatsApp and YouTube automation. New updates are released frequently with new features and bug fixes.
 
 ### SMTPLIB: 
