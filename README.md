@@ -55,7 +55,8 @@ The text contains some keywords that determine what queries are to be executed. 
 voice to text. This text is then sent to the processor, it detects the nature of the command and calls the related code for execution process.
 
 
-![image](https://github.com/aaditeeshelke/avitrices-assistant/assets/135505964/e58ca497-0d29-4260-a284-95a503217cd4)
+![image](https://github.com/aaditeeshelke/avitrices-assistant/assets/135505964/0e6b9778-2245-4a64-9312-223db9c47a12)
+
 
 
 
