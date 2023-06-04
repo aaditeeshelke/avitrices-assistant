@@ -47,6 +47,17 @@ Phone numbers is one of the modules that provides numerous features like providi
 ### PYAUTOGUI:
 PyAutoGUI is essentially a Python package that works across Windows, MacOS X and Linux which provides the ability to simulate mouse cursor moves and clicks as well as keyboard button presses.
 
+## WORKING
+
+Taking voice as a input from user. Conversion of the speech into text by the system The converted text is then processed to get the desired output.
+The text contains some keywords that determine what queries are to be executed. If the keyword did not matched the queries in the program hence the assistant will ask the user to speak again. The output which is in the text form is converted to speech and is provided to the user. Above figure shows the flow of the voice assistant system. speech recognition is used to convert the input 
+
+voice to text. This text is then sent to the processor, it detects the nature of the command and calls the related code for execution process.
+
+
+![image](https://github.com/aaditeeshelke/avitrices-assistant/assets/135505964/e58ca497-0d29-4260-a284-95a503217cd4)
+
+
 
 
 
