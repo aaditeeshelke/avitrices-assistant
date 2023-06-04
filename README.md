@@ -57,6 +57,27 @@ voice to text. This text is then sent to the processor, it detects the nature of
 
 ![image](https://github.com/aaditeeshelke/avitrices-assistant/assets/135505964/0e6b9778-2245-4a64-9312-223db9c47a12)
 
+## output
+
+-converting speech to text and printing it in terminal.
+
+-Searching Wikipedia
+
+-Send email
+
+-play songs from saved library
+
+-open applications
+
+-open online platform like Google,Facebook,Youtube  etc.
+
+-tells date and time also
+
+-showing news on YouTube
+
+-giving the phone number details like which company number is this or where it belongs to like this detail can give my assistant
+
+
 
 
 
